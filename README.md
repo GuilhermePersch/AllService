@@ -1,16 +1,52 @@
-# testando_conhecimentos
 
-A new Flutter project.
+# All Services
 
-## Getting Started
+Aplicativo desenvolvido em flutter para centralizar e organizar serviços realizados. É possível informar valores do serviço, nome, descrição, datas e afins.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidades
+
+- Criação de serviços contendo nome do serviço, descrição, data em que o serviço foi realizado, nome do cliente, endereço e valor.
+- Editar o serviço já criado, sendo possível alterar todos os dados supracitados.
+- Deletar o serviço criado.
+
+
+
+
+
+
+## Aprendizados
+
+Pude realizar o primeiro aplicativo funcional em Flutter, trabalhando com Hive para alocar dados na memória e trabalhar com diferentes tipos de dados. Pude também aplicar conhecimentos de código limpo, refatorando erros de código e mantendo um sistema ortogonal com as classes.
+
+
+
+
+
+## Stack utilizada
+
+**Front-end:** Flutter, Dart, Material Design (padrões nativos do Flutter)
+
+**Back-end:** Hive (banco local NoSQL para armazenamento offline)
+
+
+## Futuras Melhorias
+
+Planejo continuar expandindo o projeto com novas funcionalidades, como:
+
+* Adição de novos tipos de serviços
+
+* Melhoria no fluxo de cadastro e listagem
+
+* Ajustes na interface para uma experiência mais intuitiva
+
+* Possível inclusão de recursos extras e personalizações
+
+Essas melhorias serão implementadas conforme o projeto evolui e novas necessidades surgirem.
+
+## Autores
+
+- [@GuilhermePersch](https://github.com/GuilhermePersch)
+
